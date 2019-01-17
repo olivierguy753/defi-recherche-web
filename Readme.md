@@ -8,3 +8,5 @@ en 1990 : ARPANET disparait et le World Wide Web est créé par Robert Caillau e
  
 En 1962 pendant la guerre froide, l'us air force à demandé à un petit groupe de chercheur de creer un reseau decentralisé, afin de le preserver en cas d'attaque.
 https://www.pourquois.com/societe/pourquoi-internet.html
+# defi-recherche-web
+
