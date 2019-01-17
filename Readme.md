@@ -10,3 +10,10 @@ En 1962 pendant la guerre froide, l'us air force à demandé à un petit groupe 
 https://www.pourquois.com/societe/pourquoi-internet.html
 # defi-recherche-web
 
+- Quelle est la différence entre le Web et Internet ?
+
+Internet est un reseau, le web en est sa principale application
+le web est un système de publication et de consultation de documents : des sons, des images et des textes.
+le web est un service internet parmis d'autres.
+
+https://www.gralon.net/articles/internet-et-webmaster/logiciel/article-quelle-est-la-difference-entre-web-et-internet--8644.htm
