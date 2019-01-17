@@ -48,3 +48,10 @@ le copyleft sert à rendre une oeuvre ou un programme ainsi que toutes ses modif
 https://fr.wikipedia.org/wiki/Copyright
 https://www.gnu.org/licenses/copyleft.fr.html
 ______________________________________________________________________________________________________
+
+# Que sont les Creatives Commons ?
+
+Creative Commons (CC) est une association à but non lucratif qui permet aux ayants droits de se liberer des droits de propriété sur des oeuvres qu'ils possedent afin de rendre les droits d'usages moins restrictifs. 
+https://fr.wikipedia.org/wiki/Creative_Commons
+
+______________________________________________________________________________________________________
