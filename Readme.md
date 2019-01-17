@@ -1,4 +1,4 @@
-<h2 align="center"> __Par qui, quand, pourquoi et où a été inventé Internet ?__ </h2>
+<h2 align="center"> <u>Par qui, quand, pourquoi et où a été inventé Internet ?</u> </h2>
  
  Le premier MODEM à été créé par le Laboratoire Bell en 1958
 en 1971 Ray Tomlinson envoi son 1er mail sur le reseau militaire arapnet.
