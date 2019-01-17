@@ -60,6 +60,6 @@ ________________________________________________________________________________
 
 
 ![Image of Grace Hopper]
-(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/280px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg style=centerme)
+(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/280px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg ?style=centerme)
 
 Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959. 
