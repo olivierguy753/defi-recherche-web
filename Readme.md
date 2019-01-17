@@ -8,7 +8,8 @@ en 1990 : ARPANET disparait et le World Wide Web est créé par Robert Caillau e
  
 En 1962 pendant la guerre froide, l'us air force à demandé à un petit groupe de chercheur de creer un reseau decentralisé, afin de le preserver en cas d'attaque.
 https://www.pourquois.com/societe/pourquoi-internet.html
-# defi-recherche-web
+
+______________________________________________________________________________________________________
 
 - Quelle est la différence entre le Web et Internet ?
 
@@ -35,3 +36,15 @@ https://www.gralon.net/articles/internet-et-webmaster/logiciel/article-quelle-es
    127.0.0.1 correspond au localhost (ordinateur en resau local) une adresse qui commence par 127.x.x.x, doit être redirigée vers l'équipement lui-même depuis lequel on adresse le paquet.
 ça marches pour toutes les autres adresses de la plage les adresse 127.240.27.18, ou 127.0.0.1, ou 127.54.38.125, etc.... 
 https://www.commentcamarche.net/forum/affich-7482024-que-signifie-l-adresse-ip-http-127-0-0-1
+
+
+______________________________________________________________________________________________________
+
+Que sont le copyright et le copyleft ?
+
+
+le copyleft sert à rendre une oeuvre ou un programme ainsi que toutes ses modifications, libres au contraire du copyright qui permet de s'aproprier l’ensemble de l'exclusivité des droits sur une oeuvre
+
+https://fr.wikipedia.org/wiki/Copyright
+https://www.gnu.org/licenses/copyleft.fr.html
+______________________________________________________________________________________________________
