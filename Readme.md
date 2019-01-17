@@ -59,7 +59,7 @@ ________________________________________________________________________________
 # Qui est Grace Hopper ?
 
 <p align="center">
-  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/280px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/280px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg">
 </p>
 
 
