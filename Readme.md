@@ -1,4 +1,4 @@
-# Par qui, quand, pourquoi et où a été inventé Internet ? 
+<h2 align="center"> Par qui, quand, pourquoi et où a été inventé Internet ? </h2>
  
  Le premier MODEM à été créé par le Laboratoire Bell en 1958
 en 1971 Ray Tomlinson envoi son 1er mail sur le reseau militaire arapnet.
@@ -11,7 +11,7 @@ https://www.pourquois.com/societe/pourquoi-internet.html
 
 ______________________________________________________________________________________________________
 
-# Quelle est la différence entre le Web et Internet ?
+<h2 align="center"> Quelle est la différence entre le Web et Internet ? </h2>
 
 Internet est un reseau, le web en est sa principale application
 le web est un système de publication et de consultation de documents : des sons, des images et des textes.
@@ -40,7 +40,7 @@ https://www.commentcamarche.net/forum/affich-7482024-que-signifie-l-adresse-ip-h
 
 ______________________________________________________________________________________________________
 
-# Que sont le copyright et le copyleft ?
+<h2 align="center"> Que sont le copyright et le copyleft ? </h2>
 
 
 le copyleft sert à rendre une oeuvre ou un programme ainsi que toutes ses modifications, libres au contraire du copyright qui permet de s'aproprier l’ensemble de l'exclusivité des droits sur une oeuvre
@@ -49,14 +49,14 @@ https://fr.wikipedia.org/wiki/Copyright
 https://www.gnu.org/licenses/copyleft.fr.html
 ______________________________________________________________________________________________________
 
-# Que sont les Creatives Commons ?
+<h2 align="center"> Que sont les Creatives Commons ? </h2>
 
 Creative Commons (CC) est une association à but non lucratif qui permet aux ayants droits de se liberer des droits de propriété sur des oeuvres qu'ils possedent afin de rendre les droits d'usages moins restrictifs. 
 https://fr.wikipedia.org/wiki/Creative_Commons
 
 ______________________________________________________________________________________________________
 
- <h2 align="center"> # Qui est Grace Hopper ? </h2>
+ <h2 align="center"> Qui est Grace Hopper ? </h2>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/280px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg">
