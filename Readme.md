@@ -56,7 +56,7 @@ https://fr.wikipedia.org/wiki/Creative_Commons
 
 ______________________________________________________________________________________________________
 
- <p align="center"> # Qui est Grace Hopper ? </p>
+ <h2 align="center"> # Qui est Grace Hopper ? </h2>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/280px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg">
