@@ -1,8 +1,8 @@
-<u><h2 align="center">Par qui, quand, pourquoi et où a été inventé Internet ?</h2></u>
+<h2 align="center">Par qui, quand, pourquoi et où a été inventé Internet ?</h2>
  
  Le premier MODEM à été créé par le Laboratoire Bell en 1958
 en 1971 Ray Tomlinson envoi son 1er mail sur le reseau militaire arapnet.
-en 1990 : ARPANET disparait et le World Wide Web est créé par Robert Caillau et Tim Berners-Lee
+en 1990 : ARPANET disparait et le World Wide Web est créé par __Robert Caillau__ et __Tim Berners-Lee__
  https://cultivetoi.fr/savez-vous-quand-linternet-ete-cree/
 
  
